@@ -12,6 +12,7 @@ if (navClose) {
   navClose.addEventListener("click", () => {
     navMenu.classList.remove("show-menu");
   });
+  
 }
 
 // remove menu mobile
